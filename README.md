@@ -1,6 +1,6 @@
 <h1 align="center">First project of Next Level Week of the Rocketseat 🚀</h1> 
 <p align="center">
-  <img alt="Rockectseat" src="https://img.shields.io/badge/Next Level Week-@Rockectseat-purple.svg?cacheSeconds=2592000" />
+  <img alt="Rocketseat" src="https://img.shields.io/badge/Next Level Week-@Rocketseat-purple.svg?cacheSeconds=2592000" />
 
   <img alt="nodeJS" src="https://img.shields.io/badge/nodeJS-12.17.0-green.svg?cacheSeconds=2592000" />
 
@@ -14,7 +14,7 @@
 </p>
 
 
- <center> <img src="https://downloadcursos.top/wp-content/uploads/2020/06/next.jpg"/></center>
+ <h1 align="center"><img src="https://downloadcursos.top/wp-content/uploads/2020/06/next.jpg"/></h1>
 
 
 <br/>
