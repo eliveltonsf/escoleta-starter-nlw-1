@@ -13,9 +13,9 @@
   <img alt="sqlite3" src="https://img.shields.io/badge/sqlite3-4.2.0-lightblue.svg?cacheSeconds=2592000" />
 </p>
 
-<div style="text-align:center">
-  <img src="https://downloadcursos.top/wp-content/uploads/2020/06/next.jpg" />
-</div>
+
+ <center> <img src="https://downloadcursos.top/wp-content/uploads/2020/06/next.jpg"/></center>
+
 
 <br/>
 <p>
