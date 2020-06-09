@@ -44,7 +44,7 @@
 - [SQlite3](https://www.sqlite.org/index.html)
 <br />
 
-## :man_technologist: Adquired Skills
+## :man_technologist: Practiced Skills
 
   - :heavy_check_mark: CSS - Flexbox and Grid 
   - :heavy_check_mark: Layout Responsive
